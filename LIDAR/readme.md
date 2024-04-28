@@ -9,8 +9,8 @@
   <tr>
   </tr>
   <tr>
-    <td align="center"><img align="center" src="img/src" width="475"/></td>
-    <td align="center"><img align="center" src="img/src" width="475"/></td>
+    <td align="center"><img align="center" src="resources/2.1.png" width="475"/></td>
+    <td align="center"><img align="center" src="resources/2.2.png" width="475"/></td>
    
   </tr>
 </table>
